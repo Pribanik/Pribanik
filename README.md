@@ -14,7 +14,7 @@ I am a meticulous Data Analyst, I excel in harnessing data-driven insights to ta
 
 
 <!-- Skills Section -->
-## 🚀 My Skills
+## 🚀 Skills
 
 - **Data Analysis:** Transforming raw data into useable insights.
 - **Data Visualization:** Creating compelling visualizations to communicate findings in Power Bi and Matplotlib.
