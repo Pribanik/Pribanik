@@ -32,7 +32,7 @@ I am a meticulous Data Analyst, I am excel in harnessing data-driven insights to
 ## 📫 Let's Connect
 
 - Email: banik.priyanka93@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/priyankabanik591b98147/
+- LinkedIn: https://www.linkedin.com/in/priyanka-banik-591b98147/
 
 
 <!-- Footer Section -->
